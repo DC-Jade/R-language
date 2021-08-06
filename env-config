@@ -1,0 +1,2 @@
+# find R packages path
+Sys.getenv("R_HOME")
